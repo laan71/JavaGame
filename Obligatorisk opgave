@@ -1,0 +1,54 @@
+Datamatiker 2. semester 2020 januar
+Obligatorisk studieaktivitet - Spiludvikling
+“100-timers opgaven”
+I skal bruge 100 timer på at øve programmering, lære noget nyt og udvikle et spil med f.eks. FXGL.
+
+En detaljeret dagsplan skal være afleveret i dag. Spillet skal fremvises i klassen den 29. januar. 
+
+
+Der er følgende læringsmål for opgaven:
+Øve programmering i en praktisk opgave.
+Arbejde disciplineret og selvstændigt.
+Kunne sætte sig ind i et nyt stofområde vha. online dokumentation / søgninger som f.eks. tutorials.
+Fordele 100 timer på hhv. læring og udvikling og evt bruge GitHub projects til dette.
+Fejlfinde og tolke på fejlbeskeder vha. søgning på nettet.
+Arbejde selvstændigt og proaktivt i små teams (1-3 personer). OBS! Alle skal levere eget spil på eget GitHub!
+Repetere det lærte: Gennemgå kapitlerne fra 1. semester i bogen igen (1-16)
+Dit arbejdsplan skal opdateres dagligt, ligesåvel skal du commite dagligt til GitHub. 
+OFF TOPIC: Du skal også installere Android Studio på din PC og starte en Hello World applikation med det. Hjælp på dette link… 
+
+Aflevering i Moodle
+Skal afleveres som et enkelt slide i dette slideshow!
+En executable (f.eks. en jar-fil) med et fungerende spil (eller video heraf).
+Kildekode på GitHub med versionsstyring, screenshots af spillet og kommentarer. 
+README.md, som forklarer, hvordan spillet fungerer og er udviklet.
+Evt. project management i Github, som viser, hvordan der er  brugt 100 timer på projektet.
+Evt. en Wiki på Github som dokumentation for projektet.
+Evt. unit test. 
+
+
+Læsning
+FXGL Links 
+http://almasb.github.io/FXGL/ 
+https://github.com/AlmasB/FXGL/wiki 
+Simple tutorial uden FXGL men kun med JavaFX: http://zetcode.com/gui/javafx/
+http://www.java-gaming.org/ Se under tutorials 
+FXGL Libraries https://www.jrebel.com/blog/best-javafx-libraries
+Minecraft modding
+2D spilopgave i Java
+Noter
+I skal som udgangspunkt arbejde individuelt, men gruppearbejde er også okay, hvis I har disciplin til at alle gruppemedlemmer skal lave ca. lige mange individuelle commits.  
+
+Du kan finde virkelig mange spil-resurser (grafik, lyd osv.) på nettet. Se f.eks. 
+
+https://www.spriters-resource.com/ 
+https://kenney.nl/assets 
+https://opengameart.org/
+
+Vil du hellere bruge 100 timer til at lære Python? https://www.freecodecamp.org/news/learn-python-by-building-5-games/ 
+
+Kun til Sebastian og til Toke: 
+Det er okay, at du udvikler et 100-timers spil i Godot. 
+Emil? -
+
+
